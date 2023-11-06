@@ -1,4 +1,4 @@
-# beebeejumop-email-data-analysis
+# beebeejump-email-data-analysis
 
 # Month on Month analysis of Lead generation for a solar start up in NIgeria
 
@@ -11,7 +11,7 @@ There was an average of 12.01% increase in email sign up during the dry season m
 
 The marketing manager should put more resources in marketing during dry season months. 
 
-##Data cleaning
+## Data cleaning
 df_mail = pd.read_excel("./beebeejump data4.xlsx")
 
 df_mail1.drop('CONFIRM_IP', inplace=True, axis=1)
