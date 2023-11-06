@@ -17,3 +17,6 @@ df_mail = pd.read_excel("./beebeejump data4.xlsx")
 df_mail1.drop('CONFIRM_IP', inplace=True, axis=1)
 
 df_mail1.to_csv('beebeejumpcleaned.csv', encoding='utf-8')
+
+## Check dashboard
+https://app.powerbi.com/links/z9zOBoXknV?ctid=44ffbc44-1371-4905-8d6b-da72c2885ffc&pbi_source=linkShare&bookmarkGuid=c079f236-da6e-4ba4-a636-17beb377433c
