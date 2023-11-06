@@ -1,4 +1,4 @@
-# beebeejump-email-data-analysis
+# Beebeejump-email-data-analysis
 
 # Month on Month analysis of Lead generation for a solar start up in NIgeria
 
